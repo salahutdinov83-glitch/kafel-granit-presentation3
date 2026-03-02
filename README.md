@@ -1141,7 +1141,6 @@
             }
         }
     </style>
-<base target="_blank">
 </head>
 <body>
     <div class="progress-bar" id="progressBar"></div>
